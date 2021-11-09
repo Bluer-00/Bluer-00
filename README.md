@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bluer-00
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Css and HTML
 - 💞️ I’m looking to collaborate on https://zycro.uk/ Looking for Devs
 - 📫 How to reach me TrainFan@programmer.net
 
